@@ -1,0 +1,67 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "legacy_uid": "89178d4a-ea1a-3a8e-248c-3effd2c6d6ea",
+  "instructors": {
+    "content": [
+      "e1d29dd0-0198-f30e-f768-394595070a00",
+      "906e81f9-870c-8257-2f99-45848818a2b7",
+      "5630b551-e31e-6d49-d542-891e2dc7678d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6c7b5d06-ab81-aa95-a81c-c476256d8658",
+    "website": "6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005"
+  },
+  "course_title": "Ethics and the Law on the Electronic Frontier",
+  "course_description": "This course considers the interaction between law, policy, and technology as they relate to the evolving controversies over control of the Internet. In addition, there will be an in-depth treatment of privacy and the notion of \"transparency\" -- regulations and technologies that govern the use of information, as well as access to information. Topics explored will include:\n\n*   Legal Background for Regulation of the Internet\n*   Fourth Amendment Law and Electronic Surveillance\n*   Profiling, Data Mining, and the U.S. PATRIOT Act\n*   Technologies for Anonymity and Transparency\n*   The Policy-Aware Web\n",
+  "department_numbers": [
+    "6",
+    "STS"
+  ],
+  "extra_course_numbers": "6.806,STS.085",
+  "primary_course_number": "6.805",
+  "course_image_thumbnail": {
+    "content": "123f724d-64bf-66f9-752e-f6843506f09d",
+    "website": "6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "2a60c022-cc84-4101-bb46-9a8650a00cf9",
+  "site_short_id": "6.805-fall-2005",
+  "site_url_path": "courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005",
+  "title": "Course Metadata"
+}
