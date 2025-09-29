@@ -27,14 +27,14 @@ Read:
 *   _Katz vs. United States_, 389 U.S. 347 (1967).
 *   _Terry vs. Ohio_, 392 U.S. 1 (1968).
 
-How to find the Cases: Use MIT's access to {{% resource_link "8eb4ec87-0e66-48d2-8c35-f8533f84740c" "Lexis-Nexis Universe" %}}. Type the middle part of the citation ("277 U.S. 438", "389 U.S. 347", or "392 U.S. 1") into the "citation" field on Lexis's search form.
+How to find the Cases: Use MIT's access to [Lexis-Nexis Universe](https://advance.lexis.com/bisacademicresearchhome?crid=684a30c7-29cb-4c8c-84fe-f4e453f0d955&pdmfid=1516831&pdisurlapi=true). Type the middle part of the citation ("277 U.S. 438", "389 U.S. 347", or "392 U.S. 1") into the "citation" field on Lexis's search form.
 
 If you are off-campus, the above link might not work to get you access to Lexis-Nexis Universe. Instead, follow the directions on "Locating Judicial Opinions", as explained in the the sample case brief in the {{% resource_link 220377d1-68a9-6cd5-f3f2-c9a9adec6645 "study materials" %}} section. Alternately, you can access Lexis-Nexis from anywhere if you have an MIT certificate, by using the MIT Libraries proxy service.
 
 There is no writing rotisserie assignment this week. Instead, we want you to request the records held about you by four entities.
 
-1.  The federal government has a law called the Privacy Act, which says, with some exceptions, that you have the right to retrieve the records any federal agency holds that are about you. We'd like you to request the records held on you (if any) by the Federal Bureau of Investigation. Follow the FBI's Privacy Act request instructions ({{% resource_link "aa45e8d6-3080-486d-956d-c7015e8ecbf9" "PDF" %}}) and fill out the Privacy Act Request Form ({{% resource_link "c558a3dc-a61c-4b64-9486-13f2545d5360" "PDF" %}}). Put it in an envelope addressed to the FBI (at the address given), and bring the sealed envelope to class. We'll mail it for you.
-2.  Do the same for the National Security Agency's "Operations Files." Read the {{% resource_link "56b963e1-2153-44f9-acf6-cf9b691c4912" "National Security Agency's instructions" %}}, and write up a request for information held in the "Operations Files" about you. Put it in a sealed envelope addressed to:  
+1.  The federal government has a law called the Privacy Act, which says, with some exceptions, that you have the right to retrieve the records any federal agency holds that are about you. We'd like you to request the records held on you (if any) by the Federal Bureau of Investigation. Follow the FBI's Privacy Act request instructions ([PDF](http://foia.fbi.gov/filelink.html?file=/privacy_instruc.pdf)) and fill out the Privacy Act Request Form ([PDF](http://foia.fbi.gov/filelink.html?file=/privacy_request.pdf)). Put it in an envelope addressed to the FBI (at the address given), and bring the sealed envelope to class. We'll mail it for you.
+2.  Do the same for the National Security Agency's "Operations Files." Read the [National Security Agency's instructions](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB23/index2.html), and write up a request for information held in the "Operations Files" about you. Put it in a sealed envelope addressed to:  
     Chief  
     Office of Policy  
     National Security Agency/Central Security Service  

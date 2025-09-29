@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/7f95cd0a79970314e22e571f968698b0_scowcroft.jpg
 file_size: 40305
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

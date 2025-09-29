@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ Today's class will deal with the background for regulation of the Internet, as i
 
 You should do the following reading before class, and be prepared to discuss it:
 
-*   Read the Supreme Court decision in _FCC vs. Pacifica Foundation_, 438 U.S. 726 (1978). You should be able to easily find lots of summaries on the Internet, as well as the opinion itself, for example, from Lexis or at sites such as {{% resource_link "f67deb48-f6b8-4c02-95cd-78163287791d" "findlaw" %}}. (pick "search cases and codes"). Make sure to read the actual opinion, not just the summaries.  
+*   Read the Supreme Court decision in _FCC vs. Pacifica Foundation_, 438 U.S. 726 (1978). You should be able to easily find lots of summaries on the Internet, as well as the opinion itself, for example, from Lexis or at sites such as [findlaw](http://findlaw.com/). (pick "search cases and codes"). Make sure to read the actual opinion, not just the summaries.  
     In this case, the Court upheld the power of the FCC to regulate indecent (as opposed to obscene) speech in broadcast media, thereby codifying into law the principle that material broadcast over radio or TV has narrower Constitutional protections than material written in books or newspapers. The rationale for this rests on the "pervasive presence" of the medium -- that it is difficult to avoid unintentionally running across objectionable broadcasts even in the privacy of one's own home -- and that the medium is "uniquely accessible to children." The question of whether material transmitted via the Internet is more like broadcasts or like books was central to the arguments over the constitutionality of the CDA.
-*   Read the following {{% resource_link "bad45441-dfe2-45f6-a53b-aaa5b3a56911" "short summary" %}} of the Supreme Court ruling in _Sable Communications of California, Inc.vs. FCC_, 492 U.S. 115 (1989). In this case, Court ruled here that a 1983 law banning dial-a-porn services was unconstitutional, on the grounds that it was overly broad. The opinion by Justice White lays out the famous "least restrictive means" test.
+*   Read the following [short summary](http://www.oyez.org/cases/1980-1989/1988/1988_88_515/) of the Supreme Court ruling in _Sable Communications of California, Inc.vs. FCC_, 492 U.S. 115 (1989). In this case, Court ruled here that a 1983 law banning dial-a-porn services was unconstitutional, on the grounds that it was overly broad. The opinion by Justice White lays out the famous "least restrictive means" test.
 *   Read the Supreme Court's decision in _Reno vs. ACLU_, 521 U.S. 844 (1997). This week's rotisserie assignment (published on Friday) will ask you to brief the case. You can find some helpful background on Reno and the Communications Decency Act by looking again at the link {{% resource_link cb1d83bd-b95a-e98d-a73f-cfdda4f3319f "Computer Communications and Freedom of Expression" %}} in the readings section.

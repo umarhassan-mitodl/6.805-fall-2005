@@ -5,6 +5,8 @@ description: This resource includes information on a policy analysis of the MBTA
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/b0a38781f15ef5f5d184532389a00f15_mbtafinal_prvacy.pdf
 file_size: 1461502
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

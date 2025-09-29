@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -77,11 +79,11 @@ The Clipper debates engendered several significant studies of government encrypt
 EPIC's FOIA Request and Lawsuit
 -------------------------------
 
-In August 1995, the Electronic Privacy Information Center obtained documents under the Freedom of Information Act revealing that the FBI had concluded in 1993 that the Clipper initiative could succeed only if alternative security techniques were outlawed, and planned to push for such legislation (which they have since done). The existence of these plans, even while while the Administration was assuring people throughout 1994 that there were no plans to impose domestic control of encryption, has led to an atmosphere of distrust that continues to envelop the encryption debate. Here is EPIC's {{% resource_link "b295d1ae-9cba-4fcb-b59c-58cc5c6f4e5c" "press release" %}}. In September 1995, EPIC {{% resource_link "79089ab0-c604-4163-9b67-568743c1acf7" "filed a lawsuit against the NSA" %}} challenging the "national security" classification of information concerning the Clipper Chip and the underlying Skipjack algorithm.
+In August 1995, the Electronic Privacy Information Center obtained documents under the Freedom of Information Act revealing that the FBI had concluded in 1993 that the Clipper initiative could succeed only if alternative security techniques were outlawed, and planned to push for such legislation (which they have since done). The existence of these plans, even while while the Administration was assuring people throughout 1994 that there were no plans to impose domestic control of encryption, has led to an atmosphere of distrust that continues to envelop the encryption debate. Here is EPIC's [press release](http://www.epic.org/crypto/ban/fbi_dox/press_release.html). In September 1995, EPIC [filed a lawsuit against the NSA](http://www.epic.org/crypto/Clipper/challenge.html) challenging the "national security" classification of information concerning the Clipper Chip and the underlying Skipjack algorithm.
 
 More Sources on Clipper
 -----------------------
 
-{{% resource_link "16d75eff-a3b3-4778-b62b-4a881e5ff33f" "The Clipper/EES/Capstone/Tessera/Key Escrow Archive" %}} maintained by the Electronic Frontier Foundation contains extensive source material on Clipper from 1993 and 1994.
+[The Clipper/EES/Capstone/Tessera/Key Escrow Archive](https://www.eff.org/effector/6/1) maintained by the Electronic Frontier Foundation contains extensive source material on Clipper from 1993 and 1994.
 
 Next section of this essay: {{% resource_link 1200bae3-6dfa-b89e-79da-307caa7932b4 "1995-97: From Clipper to Key Recovery" %}}

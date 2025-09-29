@@ -4,6 +4,8 @@ description: This file contains questions for sample midterm exam.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9c7f51e11e0152e84a8aaa8eec2bf773_sample_midterm.pdf
 file_size: 27964
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

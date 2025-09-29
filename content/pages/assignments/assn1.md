@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ Before 5 PM on the day before Lec #1. No one will be admitted to the class witho
 
 ### Assignment
 
-Read the opinion of the U.S. Court of Appeals in the case: {{% resource_link "a89859f5-9e6b-4b78-bf34-c1044107181c" "Mainstream Marketing Services vs. Federal Trade Commission (10th Cir, 2004)" %}}.
+Read the opinion of the U.S. Court of Appeals in the case: [Mainstream Marketing Services vs. Federal Trade Commission (10th Cir, 2004)](http://news.findlaw.com/hdocs/docs/ftc/mmsvftc021704opn.html).
 
 Pretend you are a reporter for a major newspaper. Write a short (two- or three-paragraph) news story (not a brief) that covers the Court's ruling. Your story should be accessible to ordinary readers of the newspaper. It should explain what the issue was, how the Court ruled, and the Court's reason for ruling that way, and why the public should care.
 

@@ -5,6 +5,8 @@ description: This file contains the notes for the case of Karen I. Trovato and L
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/01091ca4d6c47ccc714d2198059ee563_trovato.pdf
 file_size: 123522
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

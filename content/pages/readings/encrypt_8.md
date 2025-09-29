@@ -17,12 +17,12 @@ These documents were obtained in 1996 by the Electronic Privacy Information Cent
 
 {{< resource "7f95cd0a-7997-0314-e22e-571f968698b0" >}}
 
-1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the {{% resource_link "c43b17d3-e79e-499d-91a9-a4cc95ca3f35" "Electronic Privacy Information Center" %}}.)
+1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
 {{< resource "bb5de926-deb8-3b26-b803-3be8d8803e30" >}}
 
-1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the {{% resource_link "c43b17d3-e79e-499d-91a9-a4cc95ca3f35" "Electronic Privacy Information Center" %}}.)
+1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
 {{< resource "52dd19df-25fb-8d67-301b-50bf815a164a" >}}
 
-1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the {{% resource_link "c43b17d3-e79e-499d-91a9-a4cc95ca3f35" "Electronic Privacy Information Center" %}}.)
+1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)

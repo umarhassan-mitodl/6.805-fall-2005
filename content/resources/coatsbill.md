@@ -6,6 +6,8 @@ description: This file contains the notes to amend section 223 of the Communicat
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/e44dad606daef11fe60c29d4d4f75849_coatsbill.pdf
 file_size: 52229
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

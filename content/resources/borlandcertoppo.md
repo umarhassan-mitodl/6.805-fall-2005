@@ -5,6 +5,8 @@ description: This file contains the details for the case Lotus Development Corpo
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/25af7f0066808a960aea450ee5215e28_borlandcertoppo.pdf
 file_size: 195792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

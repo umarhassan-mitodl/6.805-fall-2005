@@ -5,6 +5,8 @@ description: This resource includes information on approach and scope of paper, 
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8c844a4f251d48a633d42d4c71ca3cce_papers.pdf
 file_size: 28035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

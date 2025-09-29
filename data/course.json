@@ -43,6 +43,7 @@
     "website": "6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005"
   },
   "course_title": "Ethics and the Law on the Electronic Frontier",
+  "hide_download": true,
   "course_description": "This course considers the interaction between law, policy, and technology as they relate to the evolving controversies over control of the Internet. In addition, there will be an in-depth treatment of privacy and the notion of \"transparency\" -- regulations and technologies that govern the use of information, as well as access to information. Topics explored will include:\n\n*   Legal Background for Regulation of the Internet\n*   Fourth Amendment Law and Electronic Surveillance\n*   Profiling, Data Mining, and the U.S. PATRIOT Act\n*   Technologies for Anonymity and Transparency\n*   The Policy-Aware Web\n",
   "department_numbers": [
     "6",
@@ -54,6 +55,7 @@
     "content": "123f724d-64bf-66f9-752e-f6843506f09d",
     "website": "6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Exams",
     "Lecture Notes",
