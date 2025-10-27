@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -161,7 +159,7 @@ Sean Whaley
 {{< tropen >}}
 {{< tdopen >}}
 Bloggers' Expectations of Privacy and Accountability: An Initial Survey. Published as  
-Viégas, F. B. "[Bloggers' expectations of privacy and accountability: An initial survey](http://jcmc.indiana.edu/vol10/issue3/viegas.html)." _Journal of Computer-Mediated Communication_ 10, no. 3 (2005). Article 12.
+Viégas, F. B. "{{% resource_link "ef2473eb-85ce-47ca-8a1d-b20fb9c84c9c" "Bloggers' expectations of privacy and accountability: An initial survey" %}}." _Journal of Computer-Mediated Communication_ 10, no. 3 (2005). Article 12.
 {{< tdclose >}}
 {{< tdopen >}}
 Fernanda B. Viégas

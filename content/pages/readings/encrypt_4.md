@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -58,7 +56,7 @@ The Administration paper emphasized the importance of key-management infrastruct
 
 The proposal was viewed as significant progress by the Administration in recognizing the importance of expanding the use of encryption. But it was criticized -- and immediately dubbed "Clipper III" by opponents -- on the grounds that it would effectively make key escrow (even for domestic encryption) a precondition for participation in the Global Information Infrastructure by incorporating escrow into the basic framework of identification on the network.
 
-The Electronic Frontier Foundation's [Clipper III Archive](http://w2.eff.org/Privacy/Key_escrow/Clipper_III/) contains several statements critical of the proposal.
+The Electronic Frontier Foundation's {{% resource_link "dfe441d6-08b9-4ce4-97c7-15bf5d05eb4a" "Clipper III Archive" %}} contains several statements critical of the proposal.
 
 Summer 1996: Key Recovery and Inducements for Industry Cooperation
 ------------------------------------------------------------------
@@ -86,7 +84,7 @@ Technically, these regulations are an "interim rule", but as of this date (Septe
 
 1997 was also the year in which the crypto dilemma attracted Congress's attention in a big way, with numerous hearings and several bills introduced, with industry and civil liberties groups lobbying for relaxing export controls, while law-enforcement (notably the FBI and the Justice Department) lobbied for tighter controls.
 
-*   One influential document in the debate was [The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption](http://academiccommons.columbia.edu/catalog/ac%3A127127), by a group of cryptographers and computer scientists (Hal Abelson, Ross Anderson, Steven Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, Peter Neumann, Ronald Rivest, Jeffrey Schiller, and Bruce Schneier) published in May 1997 with the assistance of the Center for Democracy and Technology. The group cautions that key recovery for government access (where keys must be made accessible to law-enforcement on short notice without the knowledge of the user) has inherent risks and expenses that are not well understood, and advises against rapid, wide-scale deployment of such systems.
+*   One influential document in the debate was {{% resource_link "6c3d19d5-2279-47de-9a23-3971ee1ffca0" "The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption" %}}, by a group of cryptographers and computer scientists (Hal Abelson, Ross Anderson, Steven Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, Peter Neumann, Ronald Rivest, Jeffrey Schiller, and Bruce Schneier) published in May 1997 with the assistance of the Center for Democracy and Technology. The group cautions that key recovery for government access (where keys must be made accessible to law-enforcement on short notice without the knowledge of the user) has inherent risks and expenses that are not well understood, and advises against rapid, wide-scale deployment of such systems.
 
 Congressional legislation in 1997 was all over the map, with bills introduced ranging the elimination of export controls outright, to bills outlawing the sale of non-escrowed encryption products, even domestically. By the end of the legislative session, the encryption debate has become too chaotic to result in any legislation.
 
@@ -103,10 +101,10 @@ See the following article on the European Commission report: Andrew, Edmund L. "
 
 So far, 1998 has been a year of slow going. The Secure Public Networks Act (S. 909), passed by the Senate Commerce Committee in July, 1997, would mandate the use of key recovery on networks built using federal funding, and also as a precondition to gaining certificates for electronic commerce. This bill has not yet come before the full Senate.
 
-One interesting development was the [demonstration by the Electronic Frontier Foundation](https://www.cnet.com/news/record-set-in-cracking-56-bit-crypto/) that 56-bit DES could be cracked in 56 hours using a special-purpose machine that can be built at modest cost, thus underlining the inadequacy of 56 bits as a limit on exportable encryption.
+One interesting development was the {{% resource_link "870edf39-2fa5-4464-adb6-fe924e74c1b9" "demonstration by the Electronic Frontier Foundation" %}} that 56-bit DES could be cracked in 56 hours using a special-purpose machine that can be built at modest cost, thus underlining the inadequacy of 56 bits as a limit on exportable encryption.
 
 Harking back to CALEA and the beginning of this survey -- the U.S. Telephone Association filed suit against the FBI and the Department of Justice on August 19 to block the implementation of CALEA, on the grounds that the implementation cost-recovery regulations and FBI rules exceed the FBI's statutory authority. On September 11, 1998, the FCC helped defuse the tension between the FBI and the telecommunications industry by delaying the date for CALEA compliance (originally scheduled for October 1998) until June 2000.
 
 Overall, though, most action seems to be behind the scenes positioning. Whether anything will emerge before the end of the legislative session remains to be seen.
 
-For an overview of latest events, see the information pages maintained by the [Internet Privacy Coalition](http://www.epic.org/crypto/) and the [Center for Democracy and Technology](http://www.cdt.org/).
+For an overview of latest events, see the information pages maintained by the {{% resource_link "dc223bcc-30b4-4bd8-bc55-268630870cd9" "Internet Privacy Coalition" %}} and the {{% resource_link "8b21807c-92c9-4e12-82b8-dd8b80bc544e" "Center for Democracy and Technology" %}}.

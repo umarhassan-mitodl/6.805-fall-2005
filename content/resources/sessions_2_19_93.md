@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/4796b1006505fb2732ebf52739e5e69b_sessions_2_19_93.gif
 file_size: 17908
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

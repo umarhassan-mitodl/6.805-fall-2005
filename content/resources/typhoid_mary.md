@@ -5,8 +5,6 @@ description: This file contains notes on Social Ethics in the Electronic Communi
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/e306d9ac793c21f0ca8f771c111bc777_typhoid_mary.pdf
 file_size: 57943
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

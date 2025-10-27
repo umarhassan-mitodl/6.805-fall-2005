@@ -5,8 +5,6 @@ description: This resource includes information on personal data collection by g
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/1da69199e47326e25927351ccdb63e9e_google.pdf
 file_size: 1012540
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This file contains notes on Alpha Sigma.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/19a61fa75cee3053729c24a94d217644_alpha_sigma.pdf
 file_size: 55735
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

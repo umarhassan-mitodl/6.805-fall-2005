@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ uid: 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86
 
 {{< resource uuid="4796b100-6505-fb27-32eb-f52739e5e69b" href_uuid="4796b100-6505-fb27-32eb-f52739e5e69b" >}}
 
-Transmittal Letter. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
+Transmittal Letter. (Courtesy of the {{% resource_link "7f7e15d5-171e-44f8-b51c-43dfdc992cf6" "Electronic Privacy Information Center" %}}.)
 
 Transmittal letter from FBI Director William S. Sessions to National Security Council official George J. Tenet, February 1993, forwarding a report prepared by FBI, NSA and DOJ and titled "Encryption: The Threat, Applications, and Potential Solutions". The report was classified SECRET and called for a national policy prohibiting cryptography that does not ensure real-time access to law enforcement. U.S. administrations continue to insist that they do not support domestic restrictions on encryption technology. The redacted document shown here was obtained in 1996 under the Freedom of Information Act by the Electronic Privacy Information Center.
 
@@ -130,11 +128,11 @@ Technical Background on Cryptography
 We won't deal much with the technical aspects of cryptography -- there are other MIT subjects that cover this. But if you're curious, there are lots of good sources of information.
 
 *   RSA's Frequently Asked Questions About Today's Cryptography, is maintained by RSA Data Security, Inc., and is an excellent introduction to some of the issues.
-*   [The Cryptography FAQ](http://www.faqs.org/faqs/cryptography-faq/). This is another comprehensive information source.
+*   {{% resource_link "e3c526e9-579a-4496-9d6c-faa94516e85f" "The Cryptography FAQ" %}}. This is another comprehensive information source.
 *   Bruce Schneier, _Applied Cryptography_. John Wiley & Sons, 2nd rev. ed., 1995. This is an outstanding book on the basics of modern cryptography and its applications.
 *   The Venona Project. This is a fascinating site to look at if you are interested in cryptography. Venona was the code name for the U.S. Signals Intelligence effort begun in 1943 to collect and decrypt the text of Soviet KGB and GRU messages, messages that provided extraordinary insight into Soviet attempts to infiltrate the U.S. Government. The NSA has declassified thousands of these documents and made them available at their Web site, together with information about their decryption.
 
 More information
 ----------------
 
-[WWW Cryptography Article Database](http://www.schneier.com/cryptography.html)
+{{% resource_link "ddc374e3-d8cd-4f4f-89f3-ccd011b15daa" "WWW Cryptography Article Database" %}}

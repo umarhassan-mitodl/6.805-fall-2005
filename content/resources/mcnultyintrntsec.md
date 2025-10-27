@@ -4,8 +4,6 @@ description: This file contains the details on Security on the Internet.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/5073aa2411a10a2d9c695eca98c6462d_mcnultyintrntsec.pdf
 file_size: 111731
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

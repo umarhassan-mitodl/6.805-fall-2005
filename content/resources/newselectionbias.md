@@ -5,8 +5,6 @@ description: This resource includes information on stations and networks, story 
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/57a1c4987d026b607b8d6adc1f681928_newselectionbias.pdf
 file_size: 210981
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

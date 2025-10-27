@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ uid: 963f6cb7-12ed-d701-648b-00b2adeb8762
 *   [The Lotus Look and Feel Suits](#lotus)
 *   {{% resource_link 6cc29e9b-b358-33cf-1d3c-42b5cd66ceed "Back to readings on information and intellectual property" %}}
 
-The situation with software copyright is no less confusing than with software patents. If programs are "abstract machines" or "methods of operation", are they copyrightable at all? The Supreme Court gives little guidance here. One possible precedent is {{< anchor "baker" >}}{{< /anchor >}}[Baker v. Selden, 101 U.S. 99 (1879)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&court=US&vol=101&page=99) in which the Court ruled that describing a system of accounting in a textbook did not confer copyright protection on the system itself:  
+The situation with software copyright is no less confusing than with software patents. If programs are "abstract machines" or "methods of operation", are they copyrightable at all? The Supreme Court gives little guidance here. One possible precedent is {{< anchor "baker" >}}{{< /anchor >}}{{% resource_link "febd0da0-5662-4fea-adc1-fbafdf240dd4" "Baker v. Selden, 101 U.S. 99 (1879)" %}} in which the Court ruled that describing a system of accounting in a textbook did not confer copyright protection on the system itself:  
 The description of the art in a book, though entitled to the benefit of copyright, lays no foundation for an exclusive claim to the art itself. The object of the one is explanation; the object of the other is use. The former may be secured by copyright. The latter can only be secured, if it can be secured at all, by letters-patent.  
 The Copyright Act of 1976 stipulates (section 102):  
 (b)In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
@@ -100,7 +98,7 @@ Lotus appealed the decision to the Supreme Court:
 
 On September 27, 1995, the Supreme Court granted Lotus's petition. The finding that user interfaces might consist of inherently uncopyrightable "means of operation" had pulled the rug out from under the proponents of strong user-interface copyright. The case generated major interest, and several amicus curiae briefs were filed:
 
-*   [Amicus brief](http://www.panix.com/~jesse/amicus/cover.html) filed in the Supreme Court in support of Lotus's position by DEC, Gates Rubber Company, Intel, and Xerox.
+*   {{% resource_link "3178f591-3443-46e9-8df9-c87ad4cb8c18" "Amicus brief" %}} filed in the Supreme Court in support of Lotus's position by DEC, Gates Rubber Company, Intel, and Xerox.
 *   Amicus brief ({{% resource_link f156e94c-1f8f-6cf1-6706-66668b57ce9d "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of a group of computer science professors.
 *   Amicus brief ({{% resource_link b1db764b-412c-a7f6-d585-ab656ab715b7 "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of the League for Programming Freedom.
 *   Amicus brief ({{% resource_link 73c0b4b4-6d16-c2f8-081f-87edc2a8c3fa "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of a group of copyright law professors.

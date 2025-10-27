@@ -4,8 +4,6 @@ description: This file contains the letter to the vice president of America.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/1e03a82fd4129f5c6f1ab423156acdd4_gorejuly20.pdf
 file_size: 44987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

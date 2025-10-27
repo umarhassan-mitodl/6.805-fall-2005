@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -26,8 +24,8 @@ If you decide to look into this case, be prepared to wade through masses of clai
 Here are some places to start:
 
 *   Robinson, Michael. "Operating Thetan Summary and Analysis." 1st ed. September 12, 1995.
-*   [The Fishman Papers page](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dst/Fishman/), maintained by Dave Touretzky of CMU.
+*   {{% resource_link "282f2893-ccb0-4bc1-8e6c-2029da4c0151" "The Fishman Papers page" %}}, maintained by Dave Touretzky of CMU.
 
 At present, the OT documents are on-line, partially at CMU and (for the contested parts) in the Netherlands:
 
-[The Fishman Papers](http://www.cs.cmu.edu/~dst/Fishman/Declaration/index.html)
+{{% resource_link "ba528f8e-d9f5-4e32-91dd-f7be8086442d" "The Fishman Papers" %}}

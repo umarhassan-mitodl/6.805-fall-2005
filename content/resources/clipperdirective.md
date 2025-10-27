@@ -5,8 +5,6 @@ description: This file contains information on Presidential Directive Authorizin
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/f8bf4382b9e4985823c7cb3cb168c0e7_clipperdirective.pdf
 file_size: 80749
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

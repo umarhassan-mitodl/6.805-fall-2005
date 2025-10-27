@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Assignments section contains the details of the assignments to be submitted.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
