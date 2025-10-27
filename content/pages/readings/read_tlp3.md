@@ -45,7 +45,7 @@ Initially, respect for copyright protection needs to be highlighted -- intellect
 - Barlow, [The Economy of Ideas](#barlow)
 - Dyson, [Intellectual Property on the Net](#dyson)
 - Samuelson, [The Copyright Grab](#samuelson)
-- Litman, [Copyright Noncompilance](http://www-personal.umich.edu/~jdlitman/papers/no.htm)
+- Litman, {{% resource_link "d6082ec0-31f0-4ec5-b4a9-5e903d4de668" "Copyright Noncompilance" %}}
 - Durant, [Patents in Cyberspace](#durant)
 - League for Programming Freedom, [Against software patents](#sw_patent)
 - Heckel, [Debunking the Software Patent Myths](#heckel)
@@ -58,9 +58,9 @@ Note: Some of the links in the list above connect to the place on this page wher
 
 The laws regarding patents and copyrights are extremely complex and technical. What else would you expect with so many lawyers involved? Here are some resources to help you get oriented:
 
-- The law firm of Oppedahl & Larson maintains an [Intellectual Property Law Web Server](http://www.patents.com/) that has an excellent collection of basic material.
-- Stanford University Libraries maintains an extensive [Copyright & Fair Use Web Site](http://fairuse.stanford.edu/) with material on copyright statues and legal precedents.
-- The [U.S. Patent and Trademark](http://www.uspto.gov/) Office provides information via its Web site, including an extensive collection of general information and an excellent introduction called [General Information Concerning Patents](https://www.uspto.gov/patents-getting-started/general-information-concerning-patents).
+- The law firm of Oppedahl & Larson maintains an {{% resource_link "064530ef-d3aa-4139-83f6-e955b7301389" "Intellectual Property Law Web Server" %}} that has an excellent collection of basic material.
+- Stanford University Libraries maintains an extensive {{% resource_link "9c10bcc0-e10d-41a1-b5aa-0f57849cb7ec" "Copyright & Fair Use Web Site" %}} with material on copyright statues and legal precedents.
+- The {{% resource_link "6eb3ba7d-2d66-4fe4-8b04-967964bd7f49" "U.S. Patent and Trademark" %}} Office provides information via its Web site, including an extensive collection of general information and an excellent introduction called {{% resource_link "9b7a1257-f14c-49c1-b9a6-502c511b8fa3" "General Information Concerning Patents" %}}.
 - The Association of Research Libraries' Timeline: A History of Copyright in the U.S. summarizes aspects of U.S. Copyright Law, with special emphasis on the evolution of the principles of "fair use" and the rights of libraries.
 
 ## {{< anchor "software" >}}{{< /anchor >}}Software as Intellectual Property
@@ -90,19 +90,19 @@ Software is particularly troublesome for patent law. On the one hand, machines a
 The result of this hair-splitting is highly confusing. It rests on complex and -- to be honest -- technically questionable decisions of the Court of Appeals for the Federal Circuit. If you delve into any of the patent cases described below, you will find them tough going. The following pieces can help get you oriented:
 
 - {{< anchor "durant" >}}{{< /anchor >}}Durant, Stephen C. "Patents in Cyberspace: Impact of recent Federal Circuit decisions." *The Computer Lawyer* 12, no. 1 (January 1995). This is a good overview of the current status of patentability of software and the impact of recent court decisions. (Copies of this paper were distributed in class on October 9.)
-- Kuester, Jeffrey R., and Ann K.Moceyunas. [Patents for Software-Related Inventions](http://www.kuesterlaw.com/swpat.html) (March 1995). This is a another good overview of the current status of software. It also includes an overview of the patenting process, and the discussion centers on the history of problems with the definition of "algorithm".
-- [Examination Guidelines for Computer-Related Inventions](https://www.uspto.gov/web/offices/com/sol/og/con/files/cons093.htm) (February 1996) These are the official guidelines used by the Patent Office's examiners to determine whether software inventions are patentable.
+- Kuester, Jeffrey R., and Ann K.Moceyunas. {{% resource_link "767b0683-9402-4788-9d8c-91c316b803fc" "Patents for Software-Related Inventions" %}} (March 1995). This is a another good overview of the current status of software. It also includes an overview of the patenting process, and the discussion centers on the history of problems with the definition of "algorithm".
+- {{% resource_link "d0bf8c5c-af27-4f25-b34d-6f7198fea5ac" "Examination Guidelines for Computer-Related Inventions" %}} (February 1996) These are the official guidelines used by the Patent Office's examiners to determine whether software inventions are patentable.
 
 ### {{< anchor "supreme" >}}{{< /anchor >}}{{< anchor "appeals" >}}{{< /anchor >}}Supreme Court Rulings
 
-- [Gottschalk v. Benson, 409 U.S. 63 (1972)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=409&invol=63). In this decision, the Court ruled that a program to convert binary-coded decimal numbers to binary was not patentable, since it was merely an algorithm, This decision laid the basis for the view that programs are not patentable, which held sway until 1981.
-- [Diamond v. Diehr, 450 U.S. 175 (1981)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=450&invol=175). Here the Court ruled that a process (for curing rubber) that used a computer program could be patentable, even though it made use of a mathematical algorithm.
+- {{% resource_link "36b6951d-5dce-4975-af30-5d34047f8879" "Gottschalk v. Benson, 409 U.S. 63 (1972)" %}}. In this decision, the Court ruled that a program to convert binary-coded decimal numbers to binary was not patentable, since it was merely an algorithm, This decision laid the basis for the view that programs are not patentable, which held sway until 1981.
+- {{% resource_link "9d516074-9b2a-463c-b17b-983591ba1330" "Diamond v. Diehr, 450 U.S. 175 (1981)" %}}. Here the Court ruled that a process (for curing rubber) that used a computer program could be patentable, even though it made use of a mathematical algorithm.
 
 ### Appeals Court Rulings
 
 - Arrythmia v. Corazonix ({{% resource_link "89ad8a73-e09a-a12c-e614-689465029140" "PDF" %}}) (1992), decision by the U.S. Court of Appeals, Federal Circuit. This major decision also includes a review of the Benson and Diehr decisions, and establishes that mathematical algorithms may be patentable if they are used in relation to a tangible physical physical process.
 - {{< anchor "alappat" >}}{{< /anchor >}}In re Alappat ({{% resource_link "fabe0363-c6ea-cd8c-2740-2fa967047660" "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision extended the basis for algorithm patentability established in Arrythmia. The Court declared that a method for smoothing waveforms in a digital oscilloscope is patentable, even though the patent claim was written so broadly as to cover any general-purpose computer performing the same method. The Court held that "a general purpose computer in effect becomes a special purpose computer once it is programmed to perform particular functions pursuant to instructions from program software."
-    - {{< anchor "sw_patent" >}}{{< /anchor >}}[Software Patents](http://en.wikipedia.org/wiki/Software_patent), by Jonathan Rosenoer, reports on and criticizes the Alappat decision.
+    - {{< anchor "sw_patent" >}}{{< /anchor >}}{{% resource_link "90d50420-a2cd-4096-90bb-b013fb2e3d88" "Software Patents" %}}, by Jonathan Rosenoer, reports on and criticizes the Alappat decision.
 - In re Lowry ({{% resource_link "97720d58-fa81-e341-d2bc-4f6e73c92327" "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This holds that a computer memory with data structures stored in it is patentable subject matter, i.e., that the organization of information in memory can be patentable invention.
 - In re Trovato ({{% resource_link "01091ca4-d6c4-7ccc-714d-2198059ee563" "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision restricted the basis for algorithm patentability, saying that algorithms (even when they are realized as computer programs) may not be patentable if the domain of application of the algorithm is too "abstract".
 
@@ -127,7 +127,7 @@ The White Paper was roundly criticized by the academic and library communities a
 "Intellectual Property and the National Information Infrastructure." The report of the Working Group on Intellectual Property Rights. September 5, 1995 This is a massive document (250 pages plus appendices and over 500 footnotes), but it is worth at least skimming, because it gives a comprehensive (critics say biased) overview of copyright, patent, trademark, and trade secret law, with special emphasis on the implications of networks and digital technology.
 
 - {{< anchor "samuelson" >}}{{< /anchor >}}Samuelson, Pamela. "The Copyright Grab." *Wired*, no. 4.01, January 1996. As the title suggests, this article severely criticizes the White Paper as an erosion of fair use.
-- {{< anchor "litman" >}}{{< /anchor >}}Jessica Litman. "[Revising Copyright Law for the Information Age](http://www-personal.umich.edu/~jdlitman/papers/revising.htm)." 75 *Oregon Law Review* 19 (1996) This article critiques the White Paper, but more importantly, it argues that digital technology has made "reproduction" untenable as a basis for copyright law.
+- {{< anchor "litman" >}}{{< /anchor >}}Jessica Litman. "{{% resource_link "4224a1cc-5a7a-4e88-84d4-953255994043" "Revising Copyright Law for the Information Age" %}}." 75 *Oregon Law Review* 19 (1996) This article critiques the White Paper, but more importantly, it argues that digital technology has made "reproduction" untenable as a basis for copyright law.
 - ———. "Copyright Noncompliance (or why we can't "Just say yes" to licensing)." 29 *New York University Journal of International Law & Policy* (forthcoming, 1997). Here Litman builds on her criticism of the White Paper to emphasize how Internet has upset the traditional balances in copyright law: "The trouble with the \[White Paper's\] plan is that the only people who appear to actually believe that the current copyright rules apply as writ to every person on the planet are members of the copyright bar."
 - Fujita, Anne K. "The Great Internet Panic: How Digitization is Deforming Copyright Law." 2 J. TECH. L. & POL'Y 1, (1996). This is another study of the White Paper and copyright law, with an emphasis on how the Internet is upsetting the traditional balances.
 - Lutzker, Arnold P. "Commerce Department's White Paper on National and Global Information Infrastructure." September 20, 1995. This is a review and analysis of White Paper, commissioned by the Association of Research Libraries, the American Library Association, the American Association of Law Libraries, the Medical Library Association, and the Special Libraries Association.
@@ -143,7 +143,7 @@ These were the first substantial revision of international copyright law in 20 y
 
 A major motivating factor in negotiating the treaties was "the profound impact of the development and convergence of information and communication technologies on the creation and use of literary and artistic works." The treaties clarify that copyright protection extends to computer programs, and they require signatory nations to provide legal remedies against any person who removes or alters electronic copyright information.
 
-Implementing the enabling legislation has proved contentious, with several competing bills now before the House and the Senate. In July, legislation was introduced at the request of the Department of Commerce (H.R. 2281 and S. 1181) which critics say goes much farther than the treaties require in imposing strict copyright enforcement. Competing legislation seeks to clarify the liability risks of internet service providers and other issues, such as that search engines, links, and browsers are not infringing devices. Much of this activity is being tracked by the [Digital Future Coalition](https://en.wikipedia.org/wiki/Digital_Future_Coalition), a coalition of nonprofit educational groups and commercial trade organizations representing computer and telecommunications industries.
+Implementing the enabling legislation has proved contentious, with several competing bills now before the House and the Senate. In July, legislation was introduced at the request of the Department of Commerce (H.R. 2281 and S. 1181) which critics say goes much farther than the treaties require in imposing strict copyright enforcement. Competing legislation seeks to clarify the liability risks of internet service providers and other issues, such as that search engines, links, and browsers are not infringing devices. Much of this activity is being tracked by the {{% resource_link "e3369572-a5df-47d7-a213-b4e3a9d43ade" "Digital Future Coalition" %}}, a coalition of nonprofit educational groups and commercial trade organizations representing computer and telecommunications industries.
 
 - The Digital Future Coalition's archives on Copyright Legislation in the 105th Congress and statements and position papers on the proposed legislation.
 
@@ -158,10 +158,10 @@ As you might expect, there are both utopian and dystopian predictions about this
 - Stefik, Mark. "Letting Loose the Light," in the book *Internet Dreams*, available from the MIT Press. This lays out the basic idea of trusted systems and rights management, and presents the utopian view.
 - {{< anchor "stefik" >}}{{< /anchor >}}———. "Trusted Systems." *Scientific American* (March 1997). This is a brief synopsis, based on the paper above.
 - Zhao, Jian. "Look, It's Not There." *Byte* (January 1997). A description of digital watermarking technologies.
-- Bell, Tom. [Fair Use vs. Fared Use: The Impact Of Automated Rights Management On Copyright's Fair Use Doctrine](http://www.tomwbell.com/writings/FullFared.html). Bell reflects on the copyright regime and argues here that the growth of digital rights management really will erode fair use -- but that it will replace this with a better arrangement.
+- Bell, Tom. {{% resource_link "eae10b99-047d-457d-90fe-da3f34329f84" "Fair Use vs. Fared Use: The Impact Of Automated Rights Management On Copyright's Fair Use Doctrine" %}}. Bell reflects on the copyright regime and argues here that the growth of digital rights management really will erode fair use -- but that it will replace this with a better arrangement.
 
 ## {{< anchor "other_material" >}}{{< /anchor >}}Other Material
 
 1994-forever?: The Church of Scientology vs. The Net. This interminable series of copyright lawsuits and other antics is notable in demonstrating the lengths to which people can go if they are determined to push intellectual property law to its fullest extent in order to restrict the distribution of information on the Net. I stopped following this case in 1995, but even a short summary of the events up to that point deserved a {{% resource_link "1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43" "page of its own" %}}.
 
-The Electronic Frontier Foundation archives has a section on [intellectual property](https://www.eff.org/issues/intellectual-property/the-term) which is worth browsing for articles and source material.
+The Electronic Frontier Foundation archives has a section on {{% resource_link "257baab5-847c-4aea-b7fe-a4eade3436a1" "intellectual property" %}} which is worth browsing for articles and source material.

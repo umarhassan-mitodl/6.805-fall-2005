@@ -35,7 +35,7 @@ CMU's fall 1994 decision to remove certain sexually explicit newsgroups from cam
 
 Elmer-Dewitt, Philip. "Censoring Cyberspace." *Time Magazine*, November 21, 1994.
 
-Camp, L. Jean, and Donna Riley. [Women, Children, Animals and the Like: Protecting an Unwilling Electronic Populace](http://www.ljean.com/files/cfp/cfp.html), presented at the 1995 Conference on Computers, Freedom, and Privacy, reviews the controversy and critically describes CMU's actions.
+Camp, L. Jean, and Donna Riley. {{% resource_link "4513f9e4-8a9d-47d2-b71d-fb3c6859a958" "Women, Children, Animals and the Like: Protecting an Unwilling Electronic Populace" %}}, presented at the 1995 Conference on Computers, Freedom, and Privacy, reviews the controversy and critically describes CMU's actions.
 
 ## {{< anchor "marty" >}}{{< /anchor >}}Marty Rimm, CMU, The Georgetown Law Review, Time, and the Great Cyberporn Scare of 1995
 
@@ -91,7 +91,7 @@ The judges also agreed with the claim put forth in the complaint that the CDA vi
 
 When Congress decided that material unsuitable for minors was available on the Internet, it could have chosen to assist and support the development of technology that would enable parents, schools, and libraries to screen such material from their end. It did not do so, and thus did not follow the example available in the print media where non-obscene but indecent and patently offensive books and magazines abound. . . . Instead, in the CDA Congress chose to place on the speakers the obligation of screening the material that would possibly offend some communities.
 
-- [Full text of the opinion](https://supreme.justia.com/cases/federal/us/521/844/).
+- {{% resource_link "142f43d2-afb4-465f-b992-9040a08fa398" "Full text of the opinion" %}}.
 - Godwin, Mike. "What the Final Arguments Tell Us About The Fate of the CDA." 5 June 1996. This courtroom report, written before the decision came out, is well worth reading for its insightful commentary on the legal arguments.
 - ACLU "Victory Memo" to plaintiffs, with analysis of the opinion.
 - Extensive archive of materials, maintained by the ACLU, including complete transcripts of the proceedings.
@@ -124,7 +124,7 @@ We find this argument singularly unpersuasive. The dramatic expansion of this ne
 
 All nine Justices agreed that the "display provision" (i.e., criminalizing the display of patently offensive material in a manner available to minors) was unconstitutional. Justice O'Conner (joined by Justice Renquist) filed a partially dissenting opinion, arguing that the "transmission provision" (criminalizing the transmission of indecent material to a person the sender knows is under 18 years old) might be constitutional.
 
-[Full text of the decision](https://www.law.cornell.edu/supremecourt/text/521/844) in *Reno v. ACLU*
+{{% resource_link "0f35006c-a675-49da-bc84-17eeab649284" "Full text of the decision" %}} in *Reno v. ACLU*
 
 ## {{< anchor "automation" >}}{{< /anchor >}}The Automation of Censorship in the Post-CDA World?, 1997 and Beyond
 
@@ -137,15 +137,15 @@ With the ability to filter content at any level of granularity and based on any 
 
 One focus of concern is PICS -- the Platform for Internet Content Selection -- which was developed developed by the World Wide Web Consortium based at MIT with backing of the anti-CDA coalition. Since it can be built directly into the framework of the Web, PICS is coming under fire from many of its previous supporters as a scaffolding for Orwellian censorship. It is defended by others as a technology required to realize the potential of the Web, which can be used enhance individual choice, not only to restrict it. Here are some pieces on both sides of this uneasy debate:
 
-- The World Wide Web Consortium (W3C) [page on PICS](http://www.w3.org/PICS/) (Platform for Internet Content Selection)
-- Resnick, Paul, and James Miller. "[PICS: Internet Access Controls Without Censorship](http://www.w3.org/PICS/iacwcv2.htm)." *Communications of the ACM* 39, no. 10 (1996): 87-93.
+- The World Wide Web Consortium (W3C) {{% resource_link "4b71e57b-33e8-4295-850e-fcb1542b5c35" "page on PICS" %}} (Platform for Internet Content Selection)
+- Resnick, Paul, and James Miller. "{{% resource_link "e86be55e-86e2-4c93-a4b8-f0274fe2c90b" "PICS: Internet Access Controls Without Censorship" %}}." *Communications of the ACM* 39, no. 10 (1996): 87-93.
 - Center for Democracy and Technology, How Filtering Tools Enable Responsible Parents to Protect Their Children Online (July 16, 1997). This is a brief summary of an extensive *Internet Family Empowerment White Paper* in support of filtering tools.
 - "Fahrenheit 451.2: Is Cyberspace Burning?" ACLU white paper on the dangers of internet blocking software, August 7, 1997.
 - Marshall, Joshua Michael. "The Trouble with PICS." *FEED Magazine*, September 5, 1997.
-- Paul Resnick, [PICS, Censorship, & Intellectual Freedom FAQ](http://www.w3.org/PICS/PICS-FAQ-980126.html) (June 26, 1997).
-- MIT Student Association for Freedom of [Expression Information about Labeling and Rating Systems](http://www.mit.edu/activities/safe/safe/labeling/summary.html).
+- Paul Resnick, {{% resource_link "027a59cc-8a10-4646-bb41-b543cfba2a8d" "PICS, Censorship, & Intellectual Freedom FAQ" %}} (June 26, 1997).
+- MIT Student Association for Freedom of {{% resource_link "c8b64135-93c6-4532-948d-c0857eb6c73e" "Expression Information about Labeling and Rating Systems" %}}.
 
-On December 1, 1997, the ACLU, Electronic Frontier Foundation, Computer Professionals for Social Responsibility, Electronic Privacy Information Center, and several other organizations, formed the [Internet Free Expression Alliance](http://www.ifea.net/), which as part of its mission, pledged to oppose mandatory labelling and filtering, and to scrutinize technical proposals for filtering architectures and oppose approaches that conceal with filtering criteria employed.
+On December 1, 1997, the ACLU, Electronic Frontier Foundation, Computer Professionals for Social Responsibility, Electronic Privacy Information Center, and several other organizations, formed the {{% resource_link "de20f319-45b6-4591-b012-5e94293e2249" "Internet Free Expression Alliance" %}}, which as part of its mission, pledged to oppose mandatory labelling and filtering, and to scrutinize technical proposals for filtering architectures and oppose approaches that conceal with filtering criteria employed.
 
 ## {{< anchor "redux" >}}{{< /anchor >}}CDA Redux?, 1998
 
